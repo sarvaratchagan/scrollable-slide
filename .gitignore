@@ -1,0 +1,12 @@
+dist
+node_modules
+package-lock.json
+*.log
+.idea
+!.README
+!.babelrc
+!.editorconfig
+!.eslintrc
+!.gitignore
+!.npmignore
+!.travis.yml
